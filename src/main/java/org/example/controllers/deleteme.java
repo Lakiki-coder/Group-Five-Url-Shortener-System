@@ -1,4 +1,4 @@
-package org.example.data.models;
+package org.example.controllers;
 
 public class deleteme {
 }
